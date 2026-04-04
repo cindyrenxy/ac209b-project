@@ -1,0 +1,14 @@
+# Notebook checkpoints and autosave files
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code specific settings and workspace files
+.vscode/*
+.history/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Environment folders
+.venv/
+.uv/
