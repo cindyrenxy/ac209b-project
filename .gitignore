@@ -12,3 +12,6 @@ __pycache__/
 # Environment folders
 .venv/
 .uv/
+
+# Data files
+data/
